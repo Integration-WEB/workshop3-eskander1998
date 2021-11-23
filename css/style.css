@@ -69,6 +69,20 @@ width: 100%;
   height: 100%;
 }
 
+ul.social{
+  list-style-type: none;
+  max-width: 16rem;
+  margin: 0 auto;
+}
+
+i{
+  font-size: 2rem;
+  color: white;
+}
+i:hover{
+  font-size: 2rem;
+  color: red;
+}
 /*============= MEDIA QUERIES =============*/
 
 /* Devices under 1199px (xl) */
